@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
-
 func main() {
-	fmt.Println("Welcom to Nomadcoin!")
+	var name string = "nico"
+	/* name := "nico"
+	name = "12" (shortcut)*/
 }
